@@ -9,6 +9,7 @@ Programming Language: Python
 Programming Framework: Frontend - React & Backend - Flask
 Libraries: [TBD]
 
-Project Status: [Add below]
+Project Status: 
+Establishing the main idea of the project, will be meeting Wednesday 9/16 to discuss more. 
 
 
